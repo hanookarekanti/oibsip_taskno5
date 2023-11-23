@@ -1,13 +1,14 @@
 # Sales Prediction Using Python
 
-**Oasis Infobyte Verified Project** - [**Credentials**](https://drive.google.com/file/d/1k2DHhBqQk2JLrBxqOKs8hCuodR3HNPrY/view)
+**Oasis Infobyte Verified Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=sharing)
 
 ![MasterHead](https://www.leadsquared.com/wp-content/uploads/2021/11/banner-4-3.png)
 
 <font size="1">Image Courtesy: https://www.leadsquared.com/wp-content/uploads/2021/11/banner-4-3.png</font>
 
-Click on the following link to checkout the colab file.
+Click on the following links to checkout the colab file & video presentation.
 - [Colab](https://colab.research.google.com/drive/1tAExhdHCE15A-lX0LYLsWCQT0Y0qbHZY?usp=sharing)
+- [Video](https://drive.google.com/file/d/1v1dNz0WB5ykNDCO4PsN2xP272mWv3Q25/view?usp=sharing)
 
 
 ---
