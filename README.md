@@ -69,7 +69,7 @@ The project aims to deliver a robust sales prediction model, enabling businesses
 
 ## Results
 
-I have selected recall as the primary evaluation metric for the Sales Prediction model. And after removing the overfitted models which have r2 scores for train as 100%, we get the final list:
+I have selected r2 score as the primary evaluation metric for the Sales Prediction model. And after removing the overfitted models which have r2 scores for train as 100%, we get the final list:
 
 | Sl. No. | Regression Model      |   Train R2 (%) |   Test R2 (%) |
 |:--------|:--------------------------|---------------:|--------------:|
